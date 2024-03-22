@@ -1,0 +1,484 @@
+Uri: https://bolsonarosignature.com/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://bolsonarosignature.com/?feed=rss2
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bolsonarosignature.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fbolsonarosignature.com%2F
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\index-2.php
+Content Type: application/json
+
+Uri: https://bolsonarosignature.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fbolsonarosignature.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\index-3.php
+Content Type: text/xml
+
+Uri: https://bolsonarosignature.com/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\index.php
+Content Type: application/json
+
+Uri: https://bolsonarosignature.com/index.php?rest_route=/wp/v2/pages/77
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\index-1.php
+Content Type: application/json
+
+Uri: https://bolsonarosignature.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.3
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fragranciamasculina.online/perfume/
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\index.htm
+Content Type: text/html
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min_ver%3D3.19.3.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min_ver=3.19.3.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min_ver%3D3.19.3.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min_ver=3.19.3.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor-pro/assets/js/frontend.min_ver%3D3.19.3.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor-pro\assets\js\frontend.min_ver=3.19.3.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min_ver%3D3.19.3.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min_ver=3.19.3.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/css/frontend-lite.min_ver%3D3.20.1.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\css\frontend-lite.min_ver=3.20.1.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/js/frontend-modules.min_ver%3D3.20.1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\js\frontend-modules.min_ver=3.20.1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/js/frontend.min_ver%3D3.20.1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\js\frontend.min_ver=3.20.1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/js/webpack.runtime.min_ver%3D3.20.1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\js\webpack.runtime.min_ver=3.20.1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/lib/animations/animations.min_ver%3D3.20.1.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\lib\animations\animations.min_ver=3.20.1.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min_ver%3D8.4.5.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min_ver=8.4.5.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min_ver%3D4.0.2.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min_ver=4.0.2.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/themes/hello-elementor/assets/js/hello-frontend.min_ver%3D3.0.1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\themes\hello-elementor\assets\js\hello-frontend.min_ver=3.0.1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/themes/hello-elementor/header-footer.min_ver%3D3.0.1.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\themes\hello-elementor\header-footer.min_ver=3.0.1.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/themes/hello-elementor/style.min_ver%3D3.0.1.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\themes\hello-elementor\style.min_ver=3.0.1.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/themes/hello-elementor/theme.min_ver%3D3.0.1.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\themes\hello-elementor\theme.min_ver=3.0.1.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_-226x300.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_-226x300.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_-768x1020.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_-768x1020.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_-771x1024.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_-771x1024.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\53c2c426-c42e-4ade-a8e0-f4cd1c88e5fe-_1_.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/bolsonarochuva-scaled-1-1024x683.jpg
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\bolsonarochuva-scaled-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/bolsonarochuva-scaled-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\bolsonarochuva-scaled-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/bolsonarochuva-scaled-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\bolsonarochuva-scaled-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/bolsonarochuva-scaled-1.jpg
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\bolsonarochuva-scaled-1.jpg
+Content Type: image/jpeg
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Duplo-Jair-1-150x150.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Duplo-Jair-1-150x150.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Duplo-Jair-1-300x300.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Duplo-Jair-1-300x300.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Duplo-Jair-1-768x768.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Duplo-Jair-1-768x768.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Duplo-Jair-1.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Duplo-Jair-1.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Familia-3-Perfumes-150x150.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Familia-3-Perfumes-150x150.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Familia-3-Perfumes-300x300.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Familia-3-Perfumes-300x300.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Familia-3-Perfumes-768x768.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Familia-3-Perfumes-768x768.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Combo-Familia-3-Perfumes.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Combo-Familia-3-Perfumes.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/cropped-4646609-180x180.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\cropped-4646609-180x180.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/cropped-4646609-192x192.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\cropped-4646609-192x192.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/cropped-4646609-32x32.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\cropped-4646609-32x32.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-11-e1711025880162-1024x698.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-11-e1711025880162-1024x698.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-11-e1711025880162-300x204.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-11-e1711025880162-300x204.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-11-e1711025880162-768x523.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-11-e1711025880162-768x523.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-11-e1711025880162.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-11-e1711025880162.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-3-1024x1024.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-3-1024x1024.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-3-150x150.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-3-150x150.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-3-300x300.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-3-300x300.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-3-768x768.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-3-768x768.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-3.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-3.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Design-sem-nome-4-e1710770726192.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Design-sem-nome-4-e1710770726192.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/GOOGLE_73b9a7c5-655e-40de-addf-bc03cb338c0a1-300x118.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\GOOGLE_73b9a7c5-655e-40de-addf-bc03cb338c0a1-300x118.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/GOOGLE_73b9a7c5-655e-40de-addf-bc03cb338c0a1.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\GOOGLE_73b9a7c5-655e-40de-addf-bc03cb338c0a1.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/NORTON_78d3ff43-b4eb-484f-85e8-96b0867ac3b81-300x130.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\NORTON_78d3ff43-b4eb-484f-85e8-96b0867ac3b81-300x130.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/NORTON_78d3ff43-b4eb-484f-85e8-96b0867ac3b81.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\NORTON_78d3ff43-b4eb-484f-85e8-96b0867ac3b81.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/o.bpKvv75L8CG-269x300.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\o.bpKvv75L8CG-269x300.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/o.bpKvv75L8CG-768x857.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\o.bpKvv75L8CG-768x857.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/o.bpKvv75L8CG-918x1024.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\o.bpKvv75L8CG-918x1024.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/o.bpKvv75L8CG.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\o.bpKvv75L8CG.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Perfume-Jair-Bolsonaro-1-150x150.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Perfume-Jair-Bolsonaro-1-150x150.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Perfume-Jair-Bolsonaro-1-300x300.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Perfume-Jair-Bolsonaro-1-300x300.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Perfume-Jair-Bolsonaro-1-768x768.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Perfume-Jair-Bolsonaro-1-768x768.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/Perfume-Jair-Bolsonaro-1.webp
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\Perfume-Jair-Bolsonaro-1.webp
+Content Type: image/webp
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/RECLAME_AQUI_LOGO_BRANCO1-300x52.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\RECLAME_AQUI_LOGO_BRANCO1-300x52.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/2024/03/RECLAME_AQUI_LOGO_BRANCO1.png
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\2024\03\RECLAME_AQUI_LOGO_BRANCO1.png
+Content Type: image/png
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/elementor/css/global_ver%3D1710782222.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\elementor\css\global_ver=1710782222.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/elementor/css/post-77_ver%3D1711026241.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\elementor\css\post-77_ver=1711026241.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-content/uploads/elementor/css/post-7_ver%3D1710782222.css
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-content\uploads\elementor\css\post-7_ver=1710782222.css
+Content Type: text/css
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/dist/hooks.min_ver%3Dc6aec9a8d4e5a5d543a1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\dist\hooks.min_ver=c6aec9a8d4e5a5d543a1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/dist/i18n.min_ver%3D7701b0c3857f914212ef.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\dist\i18n.min_ver=7701b0c3857f914212ef.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/dist/vendor/regenerator-runtime.min_ver%3D0.14.0.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\dist\vendor\regenerator-runtime.min_ver=0.14.0.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/dist/vendor/wp-polyfill-inert.min_ver%3D3.1.2.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\dist\vendor\wp-polyfill-inert.min_ver=3.1.2.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/dist/vendor/wp-polyfill.min_ver%3D3.15.0.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\dist\vendor\wp-polyfill.min_ver=3.15.0.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/jquery/jquery-migrate.min_ver%3D3.4.1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\jquery\jquery-migrate.min_ver=3.4.1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/jquery/jquery.min_ver%3D3.7.1.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\jquery\jquery.min_ver=3.7.1.js
+Content Type: text/javascript
+
+Uri: https://fragranciamasculina.online/perfume/wp-includes/js/jquery/ui/core.min_ver%3D1.13.2.js
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\perfume\wp-includes\js\jquery\ui\core.min_ver=1.13.2.js
+Content Type: text/javascript
+
+Uri: https://pay.pagamentoseguro2024.com/lDW0Zad8xb83N7E
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\lDW0Zad8xb83N7E
+Content Type: application/json
+
+Uri: https://pay.pagamentoseguro2024.com/q510ZO6kd7K3E9D
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\q510ZO6kd7K3E9D
+Content Type: application/json
+
+Uri: https://pay.pagamentoseguro2024.com/YEwR3AJ1Q6dZdKy
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\YEwR3AJ1Q6dZdKy
+Content Type: application/json
+
+Uri: https://www.facebook.com/tr?id=908284447646078&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\bolsonaro\fragranciamasculina.online\tr
+Content Type: text/plain
+
